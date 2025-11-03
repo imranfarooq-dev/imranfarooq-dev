@@ -34,6 +34,9 @@ Docker, Kubernetes, AWS (EC2, Lambda, S3, Dynamo, RDS), Nginx, CI/CD
 **AI and Machine Learning**  
 OpenAI, LangChain, TensorFlow, PyTorch, OpenCV, RAG  
 
+**Testing and QA**  
+Jest, Cypress, Selenium, Mocha, Jasmine, ensuring production-grade reliability and confidence in deployments  
+
 ---
 
 ## Engineering Focus  
@@ -59,7 +62,6 @@ Clarity, simplicity, and reasoning-driven decisions guide my work. I do not chas
 
 ---
 
-## Note  
 Some of the most interesting projects I’ve built are locked behind NDAs. The code that would impress you the most is unfortunately not for public viewing. Consider this profile a curated highlight reel of my public work.  
 
 ---
@@ -69,6 +71,3 @@ Some of the most interesting projects I’ve built are locked behind NDAs. The c
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranfarooq-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>  
 </div>  
 
-<div align="center">  
-  ![Profile Views](https://komarev.com/ghpvc/?username=imranfarooq-dev&color=blue&style=flat-square&label=Profile+Views)  
-</div>  
