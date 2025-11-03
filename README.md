@@ -27,11 +27,8 @@ Currently working at **Algotix AI**, where I contribute to designing and develop
 
 ---
 
-## Account Note
-
-> This is my **official GitHub account**.  
-> My previous account (**imranf620**) was **compromised and renamed to `epaz314-dev`** by an unknown third party.  
-> Please refer to this account (**imranfarooq-dev**) for all verified projects and future updates.  
+## Note
+Older personal projects are private due to NDA / confidentiality, so this account only shows selected public work.
 
 ---
 
