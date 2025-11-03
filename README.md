@@ -3,68 +3,66 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranfarooqqaisrani/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imranfarooq.dev@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/imranfarooq-dev)  
 
----  
+---
 
 ## Summary  
-I operate like a systems engineer, not a framework collector. Core thinking is grounded in **data structures**, **algorithms**, **mathematical reasoning**, and reproducible execution under real-traffic constraints. I care about correctness, deterministic behavior, performance boundaries, and measurable value in production — not fragile demos.  
+I operate like a systems engineer, not a framework collector. My work is grounded in data structures, algorithms, mathematical reasoning, and reproducible execution under real-traffic constraints. I focus on correctness, deterministic behavior, performance boundaries, and measurable value in production rather than fragile demos.  
 
-Architecturally, I have direct experience integrating **LLMs into production services** (NestJS + FastAPI) with real traffic considerations: prompt pipelines, retrieval workflows, caching strategy, latency caps, fault-aware inference, and cost envelopes. Backend depth includes query optimization at the SQL layer, caching layers to avoid redundant compute, Kafka-based streaming for async decoupling, memory-aware microservices, distributed tracing for root-cause resolution, and observability as a first-class engineering input — not an afterthought.  
+Architecturally, I have direct experience integrating LLMs into production services using NestJS and FastAPI, handling real-world traffic considerations including prompt pipelines, retrieval workflows, caching strategies, latency caps, fault-aware inference, and cost envelopes. My backend experience includes SQL query optimization, caching layers to avoid redundant compute, Kafka-based streaming for asynchronous decoupling, memory-aware microservices, distributed tracing for root-cause analysis, and observability as a first-class engineering input.  
 
-Current role: **Algotix AI** — building enterprise-grade AI and decision automation systems.  
+Currently, I am building enterprise-grade AI and decision automation systems at Algotix AI.  
 
----  
+---
 
 ## Core Tech  
 
-**Languages / Core:**  
-C++ (DSA) • Python • TypeScript • React Native • Kotlin (basic)  
+**Languages and Core Skills**  
+C++ (DSA), Python, TypeScript, React Native, Kotlin (basic)  
 
-**Frontend:**  
-React • Next.js • Tailwind  
+**Frontend**  
+React, Next.js, Tailwind  
 
-**Backend / APIs:**  
-NestJS • Express • FastAPI • GraphQL • Microservices  
+**Backend and APIs**  
+NestJS, Express, FastAPI, GraphQL, Microservices  
 
-**Data / Infra:**  
-PostgreSQL • MySQL • MongoDB • Redis • Kafka  
+**Data and Infrastructure**  
+PostgreSQL, MySQL, MongoDB, Redis, Kafka  
 
-**Cloud / Ops:**  
-Docker • Kubernetes • AWS (EC2, Lambda, S3, Dynamo, RDS) • Nginx • CI/CD  
+**Cloud and DevOps**  
+Docker, Kubernetes, AWS (EC2, Lambda, S3, Dynamo, RDS), Nginx, CI/CD  
 
-**AI / ML:**  
-OpenAI • LangChain • TensorFlow • PyTorch • OpenCV • RAG  
+**AI and Machine Learning**  
+OpenAI, LangChain, TensorFlow, PyTorch, OpenCV, RAG  
 
----  
+---
 
 ## Engineering Focus  
-- C++ DSA depth  
-- Backend architecture that scales horizontally  
-- LLM integration with deterministic execution behavior  
-- Mathematical modeling and problem solving  
-- System design with predictable performance envelopes  
+I have deep experience with C++ DSA, building backend architectures that scale horizontally, integrating LLMs with deterministic execution behavior, applying mathematical modeling to problem solving, and designing systems with predictable performance envelopes.  
 
----  
+---
 
-## Work Philosophy (Precision-Based)  
-I care about clarity, simplicity, and reasoning-driven decisions — not hype or “framework cargo cult.” I prefer solutions that expose reasoning, control cost, hold latency constraints, and survive traffic that is not idealized. Production systems should hold their shape under load — not collapse when assumptions are violated.  
+## Work Philosophy  
+Clarity, simplicity, and reasoning-driven decisions guide my work. I do not chase hype or follow “framework cargo cults.” I build solutions that are cost-efficient, latency-aware, and resilient under non-ideal traffic. Production systems should survive chaos, not collapse when assumptions are violated.  
 
----  
+---
 
-## Current Work / Active Projects  
-- [TryLeo.ai](https://tryleo.ai) – AI-powered archival analysis platform for deciphering legacy data, enabling users to search, extract insight, and automate classification of historical archives.  
-- [FrontDeskPro.ai](http://frontdeskpro.ai) – Realistic AI voice agents for home and commercial services, automating inbound calls, CRM updates, and lead capture with scalable, voice-first AI.  
-- [Clikkle.com](https://clikkle.com/) – Collaboration and business productivity suite built for modern teams, combining real-time features and microservices backend.  
-- [CatchACharacter (Android)](https://play.google.com/store/apps/details?id=com.catchacharacter.android) – Android app integrating fun AR sticker mechanics, personalization engine, and mobile backend for scalability.  
-- [LegacyKeeper.app](https://legacykeeper.app/) – Secure archival vault application designed to preserve digital legacies, combining encryption, streaming ingestion, and long-term storage pipelines.  
+## Current Work and Active Projects
+**[TryLeo.ai](https://tryleo.ai):** AI-powered archival analysis platform for deciphering legacy data, enabling users to search, extract insights, and automate classification of historical archives.  
 
----  
+**[FrontDeskPro.ai](http://frontdeskpro.ai):** Realistic AI voice agents for home and commercial services, automating inbound calls, CRM updates, and lead capture with scalable, voice-first AI.  
 
-## Note
-Some of the best stuff I’ve built is trapped behind NDAs and corporate vaults.  
-So yes — the code that would impress you the most is the code I’m legally not allowed to show.  
-Welcome to senior engineering.
+**[Clikkle.com](https://clikkle.com/):** Collaboration and productivity suite for modern teams, combining real-time features with a microservices backend.  
 
----  
+**[LegacyKeeper.app](https://legacykeeper.app/):** Secure archival vault application to preserve digital legacies, combining encryption, streaming ingestion, and long-term storage pipelines.  
+
+**[CatchACharacter (Android)](https://play.google.com/store/apps/details?id=com.catchacharacter.android):** Android app with AR sticker mechanics, personalization engine, and mobile backend built for scalability.  
+
+---
+
+## Note  
+Some of the most interesting projects I’ve built are locked behind NDAs. The code that would impress you the most is unfortunately not for public viewing. Consider this profile a curated highlight reel of my public work.  
+
+---
 
 ## GitHub Stats  
 <div align="center">  
