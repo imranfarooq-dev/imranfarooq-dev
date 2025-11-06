@@ -1,10 +1,8 @@
 name: GitHub Contribution Snake
 
 on:
-  # Runs daily at midnight UTC
   schedule:
     - cron: '0 0 * * *'
-  # Allows manual run from GitHub UI
   workflow_dispatch:
 
 jobs:
@@ -12,11 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2. Generate the contribution snake SVGs
       - name: Generate Snake animation
         uses: Platane/snk@v3
         with:
@@ -25,7 +21,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Commit and push the changes
       - name: Commit and push snake SVGs
         run: |
           git config --local user.name "GitHub Actions"
