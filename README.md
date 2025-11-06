@@ -75,6 +75,6 @@ Some of the most interesting projects I’ve built are locked behind NDAs. The c
 
 ## Contribution Snake
 <div align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-  <img src="dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Contribution Snake Dark"/>
+ <img src="dist/github-snake.svg" alt="Contribution Snake Light"/>
+<img src="dist/github-snake-dark.svg?palette=github-dark" alt="Contribution Snake Dark"/>
 </div>
