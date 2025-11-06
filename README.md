@@ -71,3 +71,10 @@ Some of the most interesting projects I’ve built are locked behind NDAs. The c
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranfarooq-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>  
 </div>  
 
+---
+
+## Contribution Snake
+<div align="center">
+  <img src="dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Contribution Snake Dark"/>
+</div>
