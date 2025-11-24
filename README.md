@@ -17,7 +17,7 @@ Currently, I am building enterprise-grade AI and decision automation systems at 
 ## Core Tech  
 
 **Languages and Core Skills**  
-C++ (DSA), Python, TypeScript, Kotlin (basic)  
+TypeScript, JavaScript, Python, C++ (DSA)
 
 **Frontend**  
 React, Next.js, React Native, Tailwind  
