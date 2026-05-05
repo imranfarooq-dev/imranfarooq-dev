@@ -1,79 +1,145 @@
 # Imran Farooq  
-## Senior Full Stack Engineer | C++ DSA | AI/ML | System Design  
+## Senior Software Engineer | Node.js (NestJS) • Next.js • Python (FastAPI) • Distributed Systems • AI/LLMs  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranfarooqqaisrani/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imranfarooq.dev@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/imranfarooq-dev)  
-
----
-
-## Summary  
-I operate like a systems engineer, not a framework collector. My work is grounded in data structures, algorithms, mathematical reasoning, and reproducible execution under real-traffic constraints. I focus on correctness, deterministic behavior, performance boundaries, and measurable value in production rather than fragile demos.  
-
-Architecturally, I have direct experience integrating LLMs into production services using NestJS and FastAPI, handling real-world traffic considerations including prompt pipelines, retrieval workflows, caching strategies, latency caps, fault-aware inference, and cost envelopes. My backend experience includes SQL query optimization, caching layers to avoid redundant compute, Kafka-based streaming for asynchronous decoupling, memory-aware microservices, distributed tracing for root-cause analysis, and observability as a first-class engineering input.  
-
-Currently, I am building enterprise-grade AI and decision automation systems at Algotix AI.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranfarooqqaisrani/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imranfarooq.dev@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/imranfarooq-dev)  
 
 ---
 
-## Core Tech  
+## 🚀 About Me  
 
-**Languages and Core Skills**  
-TypeScript, JavaScript, Python, C++ (DSA)
+Production-focused Software Engineer with 3+ years of experience building **scalable microservices, cloud-native systems, and AI-powered platforms**.
+
+I specialize in:
+- Distributed systems & event-driven architectures  
+- High-performance APIs (Node.js, Python)  
+- AI/LLM integration in production systems  
+- Cloud infrastructure (AWS/GCP, Kubernetes)
+
+**Impact delivered:**
+- ⚡ Increased system throughput by **40%**  
+- ⚡ Improved processing efficiency by **30%**  
+- ⚡ Reduced latency by **35%**  
+
+Currently building AI-driven systems at **Algotix AI**.
+
+---
+
+## 🧩 Tech Stack  
+
+**Languages**  
+TypeScript • JavaScript • Python • C++  
+
+**Backend & Systems**  
+Node.js (NestJS, Express) • FastAPI • Microservices • Kafka • RabbitMQ • BullMQ • gRPC  
 
 **Frontend**  
-React, Next.js, React Native, Tailwind  
+React • Next.js • Vue.js  
 
-**Backend and APIs**  
-NestJS, Express, FastAPI, GraphQL, Microservices  
+**Databases**  
+PostgreSQL • MongoDB • Redis • Supabase  
+Vector DBs: Pinecone • Weaviate  
 
-**Data and Infrastructure**  
-PostgreSQL, MySQL, MongoDB, Redis, Kafka  
+**Cloud & DevOps**  
+AWS • GCP • Docker • Kubernetes (EKS) • CI/CD (GitHub Actions)  
 
-**Cloud and DevOps**  
-Docker, Kubernetes, AWS (EC2, Lambda, S3, Dynamo, RDS), Nginx, CI/CD  
-
-**AI and Machine Learning**  
-OpenAI, LangChain, TensorFlow, PyTorch, OpenCV, RAG  
-
-**Testing and QA**  
-Jest, Cypress, Selenium, Mocha, Jasmine, ensuring production-grade reliability and confidence in deployments  
+**AI & LLMs**  
+OpenAI • LangChain • RAG Pipelines • AI Voice (ElevenLabs, Deepgram, AssemblyAI)  
 
 ---
 
-## Engineering Focus  
-I have deep experience with C++ DSA, building backend architectures that scale horizontally, integrating LLMs with deterministic execution behavior, applying mathematical modeling to problem solving, and designing systems with predictable performance envelopes.  
+## 💼 Experience  
+
+### **Software Engineer — Algotix AI** (Mar 2025 – Present)  
+- Architected distributed microservices using NestJS & Flask on AWS EKS  
+- Scaled system throughput by **40%**  
+- Built Kafka-based AI pipelines improving processing efficiency by **30%**  
+- Developed internal shared packages to standardize services and boost development velocity  
+
+### **Full Stack Engineer — Code’s Thinker** (Jul 2023 – Mar 2025)  
+- Built full-stack applications using React, Next.js, Node.js  
+- Improved API performance by **25%**  
+- Designed event-driven systems reducing latency by **35%**  
 
 ---
 
-## Work Philosophy  
-Clarity, simplicity, and reasoning-driven decisions guide my work. I do not chase hype or follow “framework cargo cults.” I build solutions that are cost-efficient, latency-aware, and resilient under non-ideal traffic. Production systems should survive chaos, not collapse when assumptions are violated.  
+## 🚀 Projects  
+
+### **[GetItDone — EV Charging Infrastructure Platform](https://www.getitdone.rocks/)**
+- Built a **multi-service architecture** using NestJS and Flask with a Vue.js frontend  
+- Deployed containerized microservices on **AWS EKS** with Tilt for dev/prod parity  
+- Designed shared internal package for authentication, API abstraction, and UI consistency  
 
 ---
 
-## Current Work and Active Projects
-**[TryLeo.ai](https://tryleo.ai):** AI-powered archival analysis platform for deciphering legacy data, enabling users to search, extract insights, and automate classification of historical archives.  
-
-**[FrontDeskPro.ai](http://frontdeskpro.ai):** Realistic AI voice agents for home and commercial services, automating inbound calls, CRM updates, and lead capture with scalable, voice-first AI.  
-
-**[Clikkle.com](https://clikkle.com/):** Collaboration and productivity suite for modern teams, combining real-time features with a microservices backend.  
-
-**[LegacyKeeper.app](https://legacykeeper.app/):** Secure archival vault application to preserve digital legacies, combining encryption, streaming ingestion, and long-term storage pipelines.  
-
-**[CatchACharacter (Android)](https://play.google.com/store/apps/details?id=com.catchacharacter.android):** Android app with AR sticker mechanics, personalization engine, and mobile backend built for scalability.  
+### **[GetFlair — AI Performance Visibility Platform](https://www.getflair.io/)**
+- Architected a **polyglot microservices system** (Express.js, Django, NestJS)  
+- Built AI-powered call transcription and analytics pipelines  
+- Engineered a **high-precision revenue system** using Stripe + raw SQL  
+- Deployed scalable services on **GCP**  
 
 ---
 
-Some of the most interesting projects I’ve built are locked behind NDAs. The code that would impress you the most is unfortunately not for public viewing. Consider this profile a curated highlight reel of my public work.  
+### **[TryLeo.ai — AI Document Digitization Platform](https://tryleo.ai)**
+- Developed OCR + NLP pipeline for **historical handwritten text transcription**  
+- Integrated OpenAI with Redis for **semantic search and intelligent retrieval**  
+- Built using NestJS, Next.js, Supabase, and Bull queues  
 
 ---
 
-## GitHub Stats  
+### **[FrontDeskPro.ai — AI Call Automation System](http://frontdeskpro.ai)**
+- Built **real-time AI voice agents** using ElevenLabs, Deepgram, AssemblyAI  
+- Integrated telephony via Twilio and automated workflows with OpenAI  
+- Designed scalable backend with NestJS, PostgreSQL, Redis  
+- Automated deployment via AWS EC2, GitHub Actions, CloudWatch  
+
+---
+
+### **[LegacyKeeper.app — Finance & Estate Management](https://legacykeeper.app/)**
+- Developed secure platform using React, Hono, Drizzle ORM, and tRPC  
+- Integrated **AWS Cognito, Amplify, Aurora DB, and Bedrock AI agents**  
+- Designed system for long-term archival and intelligent automation  
+
+---
+
+### **[Clikkle — Multi-Service SaaS Platform](https://clikkle.com/)**
+- Built cloud storage system using React, Express.js, PostgreSQL, AWS S3  
+- Implemented **queue-based upload system** for handling large concurrent jobs  
+- Designed scalable backend with async processing  
+
+---
+
+### **[CatchACharacter (Android App)](https://play.google.com/store/apps/details?id=com.catchacharacter.android)**
+- Developed AR-based mobile application with personalization engine  
+- Built scalable backend to support real-time interactions and user data  
+
+---
+
+## ⚙️ Engineering Focus  
+
+- Distributed systems & microservices architecture  
+- Event-driven pipelines (Kafka, queues)  
+- AI in production (RAG, inference pipelines, cost optimization)  
+- Performance optimization & system design  
+
+---
+
+## 📌 Notes  
+
+Some production systems are under NDA.  
+This profile highlights my public work and technical direction.
+
+---
+
+## 📊 GitHub Stats  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranfarooq-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 </div>
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake  
 <div align="center">
 <img src="dist/github-snake-dark.svg?palette=github-dark" alt="Contribution Snake Dark"/>
 </div>
