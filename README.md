@@ -18,9 +18,9 @@ I specialize in:
 - Cloud infrastructure (AWS/GCP, Kubernetes)
 
 **Impact delivered:**
-- ⚡ Increased system throughput by **40%**  
-- ⚡ Improved processing efficiency by **30%**  
-- ⚡ Reduced latency by **35%**  
+-  Increased system throughput by **40%**  
+-  Improved processing efficiency by **30%**  
+-  Reduced latency by **35%**  
 
 Currently building AI-driven systems at **Algotix AI**.
 
