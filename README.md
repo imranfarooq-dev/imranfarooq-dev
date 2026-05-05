@@ -49,21 +49,6 @@ OpenAI • LangChain • RAG Pipelines • AI Voice (ElevenLabs, Deepgram, Assem
 
 ---
 
-## Experience  
-
-### **Software Engineer — Algotix AI** (Mar 2025 – Present)  
-- Architected distributed microservices using NestJS & Flask on AWS EKS  
-- Scaled system throughput by **40%**  
-- Built Kafka-based AI pipelines improving processing efficiency by **30%**  
-- Developed internal shared packages to standardize services and boost development velocity  
-
-### **Full Stack Engineer — Code’s Thinker** (Jul 2023 – Mar 2025)  
-- Built full-stack applications using React, Next.js, Node.js  
-- Improved API performance by **25%**  
-- Designed event-driven systems reducing latency by **35%**  
-
----
-
 ## Projects  
 
 ### **[GetItDone — EV Charging Infrastructure Platform](https://www.getitdone.rocks/)**
