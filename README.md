@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 Production-focused Software Engineer with 3+ years of experience building **scalable microservices, cloud-native systems, and AI-powered platforms**.
 
@@ -26,7 +26,7 @@ Currently building AI-driven systems at **Algotix AI**.
 
 ---
 
-## 🧩 Tech Stack  
+## Tech Stack  
 
 **Languages**  
 TypeScript • JavaScript • Python • C++  
@@ -49,7 +49,7 @@ OpenAI • LangChain • RAG Pipelines • AI Voice (ElevenLabs, Deepgram, Assem
 
 ---
 
-## 💼 Experience  
+## Experience  
 
 ### **Software Engineer — Algotix AI** (Mar 2025 – Present)  
 - Architected distributed microservices using NestJS & Flask on AWS EKS  
@@ -64,7 +64,7 @@ OpenAI • LangChain • RAG Pipelines • AI Voice (ElevenLabs, Deepgram, Assem
 
 ---
 
-## 🚀 Projects  
+## Projects  
 
 ### **[GetItDone — EV Charging Infrastructure Platform](https://www.getitdone.rocks/)**
 - Built a **multi-service architecture** using NestJS and Flask with a Vue.js frontend  
@@ -116,7 +116,7 @@ OpenAI • LangChain • RAG Pipelines • AI Voice (ElevenLabs, Deepgram, Assem
 
 ---
 
-## ⚙️ Engineering Focus  
+## Engineering Focus  
 
 - Distributed systems & microservices architecture  
 - Event-driven pipelines (Kafka, queues)  
@@ -125,21 +125,21 @@ OpenAI • LangChain • RAG Pipelines • AI Voice (ElevenLabs, Deepgram, Assem
 
 ---
 
-## 📌 Notes  
+## Notes  
 
 Some production systems are under NDA.  
 This profile highlights my public work and technical direction.
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranfarooq-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake  
+## Contribution Snake  
 <div align="center">
 <img src="dist/github-snake-dark.svg?palette=github-dark" alt="Contribution Snake Dark"/>
 </div>
