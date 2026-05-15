@@ -1,5 +1,5 @@
 # Imran Farooq  
-## Senior Software Engineer | Node.js (NestJS) • Next.js • Python (FastAPI) • Distributed Systems • AI/LLMs  
+## Senior Software Engineer | Node.js (NestJS) • Next.js • Python • Distributed Systems • AI/LLMs  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranfarooqqaisrani/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imranfarooq.dev@gmail.com) 
