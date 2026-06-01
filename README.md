@@ -120,9 +120,6 @@ This profile highlights my public work and technical direction.
 ## GitHub Stats  
 <div align="center">
   <img height="180em"
-       src="https://github-readme-stats-seven-eta-97.vercel.app/api?username=imranfarooq-dev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="180em"
        src="https://github-readme-stats-seven-eta-97.vercel.app/api/top-langs/?username=imranfarooq-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 </div>
 
