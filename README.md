@@ -9,7 +9,7 @@
 
 ## About Me  
 
-Production-focused Software Engineer with 3+ years of experience building **scalable microservices, cloud-native systems, and AI-powered platforms**.
+Production-focused Software Engineer with 5+ years of experience building **scalable microservices, cloud-native systems, and AI-powered platforms**.
 
 I specialize in:
 - Distributed systems & event-driven architectures  
